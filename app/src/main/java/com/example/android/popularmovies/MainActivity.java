@@ -178,7 +178,7 @@ public class MainActivity extends AppCompatActivity {
             String moviesJsonStr = null;
 
             try {
-                // Construct the URL e.g. http://api.themoviedb.org/3/movie/popular?api_key=c7c7ccad326ba859203d3c95fabeb598
+                // Construct the URL e.g. http://api.themoviedb.org/3/movie/popular?api_key=
                 final String MOVIES_BASE_URL = "http://api.themoviedb.org/3/movie";
                 final String PAGE_PARAM = "page";
                 final String API_KEY_PARAM = "api_key";
